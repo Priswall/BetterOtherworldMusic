@@ -1,2 +1,2 @@
-# BetterOtherworldMusicMod
-This is the repository for the Better Otherworldy Music Mod for tModLoader
+# BetterOtherworldMusic
+This is the repository for the Better Otherworld Music Mod for tModLoader
